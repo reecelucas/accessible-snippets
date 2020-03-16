@@ -1,2 +1,3 @@
 # accessible-snippets
-Accessible bits and bobs
+
+A (growing) collection of accessible bits and bobs.
